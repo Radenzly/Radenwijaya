@@ -7,7 +7,7 @@ I'm a high school student with a passion for learning to code.
 
 ## Currently Learning
 
-- Javascript
+- Golang
 - Typescript
 - Rust
 
@@ -15,7 +15,7 @@ I'm a high school student with a passion for learning to code.
 
 ## About Me
 
-- Exploring programming and building my skills.
+- Exploring programming.
 - Im an rotten introvert
 
 ---
